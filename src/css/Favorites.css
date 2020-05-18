@@ -1,0 +1,22 @@
+.Favorites {
+  margin: 2rem 0;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+}
+
+.Favorites-title {
+  color: black;
+  margin: auto;
+}
+
+.Favorites-button-container {
+  margin: 1rem 0 0;
+  display: flex;
+  justify-content: center;
+}
+
+.Favorites-btn {
+  background-color: white;
+  animation: fadeInUp .4s;
+}

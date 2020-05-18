@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  flex-flow: column wrap;
+  background-color: #EDEDED;
+}
+
+body {
+  background-color: #EDEDED;
+}
